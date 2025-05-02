@@ -1,0 +1,5 @@
+require('pkgs')
+require('options')
+require('keybindings')
+require('lsp')
+require('plugins.cmp')
