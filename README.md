@@ -4,8 +4,6 @@ Configuration files for:
 
 - **zsh** with `oh-my-zsh` and `powerlevel10k`
     
-- **kitty** (terminal)
-    
 - **neovim** (Lua-based setup)
     
 
@@ -65,8 +63,6 @@ cd dotfiles
 - `zsh` + `oh-my-zsh`
     
 - `powerlevel10k`
-    
-- `kitty` terminal
     
 - `neovim` 0.8 or newer
     
